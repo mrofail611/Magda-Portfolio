@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Magda-Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Magda-Portfolio/static/js/main.b8bb504f.js",
+    "static/js/453.acca0757.chunk.js": "/Magda-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/project2.jpg": "/Magda-Portfolio/static/media/project2.3cb742a2c3f9404b36e2.jpg",
+    "static/media/project1.jpg": "/Magda-Portfolio/static/media/project1.5fe0a24977bf5aee7256.jpg",
+    "static/media/profile.jpg": "/Magda-Portfolio/static/media/profile.99f04f751b24fbe7260a.jpg",
+    "static/media/project3.jpg": "/Magda-Portfolio/static/media/project3.a3127a0ffba3a89e90f4.jpg",
+    "index.html": "/Magda-Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Magda-Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.b8bb504f.js.map": "/Magda-Portfolio/static/js/main.b8bb504f.js.map",
+    "453.acca0757.chunk.js.map": "/Magda-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b8bb504f.js"
+  ]
+}
